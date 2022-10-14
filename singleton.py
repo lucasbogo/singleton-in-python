@@ -1,5 +1,4 @@
-# Professor, não consegui resolver isso em python. Seria interessante fazer um 'code-along' em sala de aula
-# com a correção desse exercício. Só para obtenção de conhecimento mesmo, não precisa dar nota sobre a solução
+# Professor, não consegui resolver isso em python. Seria interessante fazer um 'code-along' em sala de aula com a correção desse exercício. Só para obtenção de conhecimento mesmo, não precisa dar nota sobre a solução
 
 
 class SiteConfiguration:
